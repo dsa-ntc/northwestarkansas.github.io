@@ -1,4 +1,4 @@
 global:
-  about: "<b>This is a starter website available for any DSA Chapter.</b> Democratic socialists believe both the economy and society should be run democratically to meet human needs, not to make profits for the wealthy. Throughout San Mateo County, from South San Francisco to Pacifica to East Palo Alto, our chapter fights for the good of the many, not the few."
-  welcome: "nwademsoc@gmail.com"
-  welcome-image: ""
+  - about: "<b>We are the Northwest Arkansas chapter of Democratic Socialists of America (DSA).</b> Our goal is to help each other and create a society that is more fair and equal than what we see today. Democratic Socialists want to focus their help to those in need and heed the call for peace around the world. Capitalism is a system designed by the owning class to exploit the rest of us for their own profit. We must replace it with democratic socialism, a system where ordinary people have a real voice in our workplaces, neighborhoods, and society."
+  - welcome: "Welcome to Northwest Arkansas DSA!"
+  - welcome-image: ""

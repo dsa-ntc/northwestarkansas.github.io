@@ -1,22 +1,63 @@
 # header links
 header:
+  - title: "About"
+    url: "/about/"
+    description: "About the NWA-DSA"
+  - title: "Working Groups"
+    url: "/working-groups/"
+    description: "Working Groups of the Chapter"
+    sub_menu:
+    - title: "Gaza Solidarity"
+      url: "/gaza-solidarity/"
+    - title: "Electoral Working Group"
+      url: "/electoral/"
   - title: "Statements"
-    url: "/blog/"
-    description: "Link to DSA Chapter's Chapter Statements"
+    url: "/statements/"
+    description: "Link to Northwest Arkasas DSA's Chapter Statements"
   - title: "Get Involved"
     url: "/get-involved/"
-    description: "Check out what DSA Chapter is working on. Join DSA!"
+    description: "Support the DSA!"
   - title: "Events Calendar"
     url: "/calendar/"
     description: "Chapter Events Calendar"
 
+join:
+  - title: "Join"
+    url: "https://act.dsausa.org/donate/membership/"
+    description: "Join DSA!"
+
 # footer links
 footer:
-  # Social media links are in `social.yml` so they aren't duplicated
-  feed:
-    - label: "Sitemap"
+  - owner: "Northwest Arkansas DSA"
+    url: # link if any
+    description: # tool tip for your url
+    bio: "This is the Northwest Arkansas chapter of the Democratic Socialists of America" # short bio
+    address: "" # address or region
+  - social:
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook"
+      url: "https://www.facebook.com/dsaofnwa"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://x.com/DSA_NWA"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://www.instagram.com/nwadsa/"
+    - label: "Email"
+      icon: "fa fa-envelope"
+      url: "mailto:nwademsoc@gmail.com"
+  - ardsa:
+    - label: "Central Arkansas DSA"
       icon: "fas fa-sitemap"
-      url: "/sitemap.xml"
-    - label: "RSS"
+      url: "https://centralarkansasdsa.org/"
+    - label: "Fort Smith DSA"
       icon: "fas fa-fw fa-rss-square"
-      url: "/feed.xml"
+      url: "https://www.facebook.com/fortsmithdsa/"
+    - label: "Northeast Arkansas DSA"
+      icon: "fas fa-fw fa-rss-square"
+      url: "https://www.facebook.com/neadsa"
+  - quick:
+    - label: "About"
+      url: "/about/"
+    - label: "Get Involved"
+      url: "/get-involved/"

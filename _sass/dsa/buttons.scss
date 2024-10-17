@@ -21,3 +21,17 @@
         background: transparent !important;
     }
 }
+
+.btn-join {
+    background: var(--red);
+    color: white;
+    font-size: var(--size-xs);
+
+    &:hover{ 
+        background: var(--red-tint-1);
+    }
+
+    margin-left: 23px;
+    display: flex;
+    font-weight: bold;
+}

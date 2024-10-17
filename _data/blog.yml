@@ -1,5 +1,24 @@
 # blog authors
 authors:
-  - name: "Nortwest Arkansas DSA Chapter"
-    headline: # byline?
+  - name: "Northwest Arkansas DSA"
+    headline: # byline? 
     avatar: #"awesome_author.svg" # display_picture.jpg
+    follow:
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook"
+      url: "https://www.facebook.com/dsaofnwa"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter"
+      url: "https://x.com/DSA_NWA"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://www.instagram.com/nwadsa/"
+
+# blog post share links
+share:
+  - label: "Facebook"
+    icon: "fab fa-fw fa-facebook"
+    url: # link
+  - label: "Twitter"
+    icon: "fab fa-fw fa-twitter-square"
+    url: # link

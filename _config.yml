@@ -6,56 +6,28 @@
 # 'bundle exec jekyll serve'. If you change this file, please restart the
 # server process.
 
-# Theme Settings
+# theme settings
+#theme: "lone-wolf-theme"
 remote_theme: "manid2/lone-wolf-theme"
-bootswatch_theme: "united"
+bootswatch_theme: "united" 
 
-# These settings are always used by Jekyll
-title: "Chapter of Democratic Socialists of America"
-url: https://[dsachapter].dsachapters.org
-
-# These settings ase used by the jekyll-seo-tag plugin. The plugin adds
-# metadata tags for search engines and social networks to better index and
-# display your site’s content. None of these are necessary, but will make your
-# site more discoverable to others. See this link for more information:
-# https://jekyll.github.io/jekyll-seo-tag/usage/
-# The tagline is used when `page.title` is not defined.
-tagline: "Homepage for our DSA Chapter"
-# The description is used when a page doesn't provide its own description.
-# It will also be used as the page's title tag if neither `page.title` nor
-# `site.tagline` has been defined.
-description: "Homepage for our DSA Chapter"
-author: DSA
-twitter:
-  username: dsachapter
-  # The site's default card type. See this link for more information:
-  # https://developer.twitter.com/en/docs/twitter-for-websites/cards/overview/abouts-cards
+# site settings, follows the order used in jekyll-seo-tag plugin
+lang: "en_US"
+title: "Northwest Arkansas Democratic Socialists of America"
+description: "Homepage for Northwest Arkansas DSA"
+url: https://dsanwa.org
+author: NWA DSA
+twitter: 
+  username: DSA_NWA
   card: summary
-facebook:
-  # A Facebook app ID for Facebook insights: https://www.facebook.com/help/794890670645072/
-  app_id: # 1234
-  # A Facebook page URL or ID of the publishing entity. I don't know what this means.
-  publisher: # 1234
-  # A Facebook user ID for domain insights linked to a personal account. I don't know what this means.
-  admins: # 1234
-logo: assets/images/smalllogo.png # PNG is SEO friendly
-social:
-  name: Chapter of Democratic Socialists of America
-  links:
-    - https://twitter.com/dsachapter
-    - https://www.facebook.com/dsachapter
-    - https://www.instagram.com/dsachapter
-    - https://www.github.com/dsachapter
-# Site verifications
-# I don't understand this yet, but maybe this page is helpful:
-# https://support.google.com/webmasters/answer/9008080?hl=en
+logo: assets/images/NWA_DSA/Logo_1k_pix/SVG/NWA-DSA-small-color-logo-newBG.svg # PNG is SEO friendly
+
 webmaster_verifications:
   google: # 1234
   bing: # 1234
   alexa: # 1234
   yandex: # 1234
   baidu: # 1234
-locale: "en_US"
 
 # comments settings
 comments:
@@ -159,7 +131,6 @@ plugins:
   - jekyll-seo-tag
   - jemoji
   - jekyll-include-cache
-  - jekyll-remote-theme
 
 # mimic GitHub Pages with --safe
 whitelist:
@@ -170,7 +141,6 @@ whitelist:
   - jekyll-seo-tag
   - jemoji
   - jekyll-include-cache
-  - jekyll-remote-theme
 
 # HTML Compression
 # - http://jch.penibelst.de/
@@ -198,5 +168,5 @@ defaults:
       path: ""
     values:
       # for SEO and social sharing
-      image: assets/images/smalllogo.png
-      image_alt: Democratic Socialists of America logo
+      image: assets/images/NWA_DSA/Logo_1k_pix/SVG/NWA-DSA-small-color-logo-newBG.svg
+      image_alt: Northwest Arkansas Democratic Socialists of America logo
