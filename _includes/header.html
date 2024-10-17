@@ -1,6 +1,11 @@
 {% assign owner = site.data.owner %}
+{% assign join = site.data.nav.join %}
 
 <header class="navbar navbar-expand-lg navbar-dark bg-primary shadow-sm">
+  <div class="container-10">
+    Join DSA today!
+    <a class="btn btn-join" href="{{ join.url }}" target="_blank">Join</a>
+  </div>
   <nav class="container">
     <!-- site home -->
     <a class="navbar-brand" href="{{ '/' | absolute_url }}">
@@ -12,19 +17,33 @@
       <span class="navbar-toggler-icon"></span>
     </button>
     <div class="collapse navbar-collapse" id="navbarColor01">
-      <!-- <ul class="navbar-nav ml-auto">
+      <ul class="navbar-nav ml-auto">
+
         {%- for link in site.data.nav.header -%}
           {%- if link.url contains '://' -%}
             {%- assign url = link.url -%}
           {%- else -%}
             {%- assign url = link.url | relative_url -%}
           {%- endif -%}
-        <li class="nav-item">
-          <a class="nav-link" href="{{ url }}" {% if link.description %} title="{{ link.description }}"
-            {% endif %}>{{ link.title }}</a>
-        </li>
+
+          <li class="nav-item {% if link.sub_menu %} dropdown {% endif %}">
+            <a class="nav-link" href="{{ url }}" 
+               {% if link.description %} title="{{ link.description }}" {% endif %}>
+               {{ link.title }}
+               {% if link.sub_menu %}<span class="dropdown-arrow"> ⏷</span>{% endif %}
+            </a>
+
+            {% if link.sub_menu %}
+              <div class="dropdown-menu">
+                {% for sub_link in link.sub_menu %}
+                  <a class="dropdown-item" href="{{ sub_link.url | relative_url }}">{{ sub_link.title }}</a>
+                {% endfor %}
+              </div>
+            {% endif %}
+          </li>
         {%- endfor -%}
-      </ul> -->
+      </ul>
+      
       {% if site.search == true %}
         {%- include search-providers/search_form.html -%}
       {% endif %}
