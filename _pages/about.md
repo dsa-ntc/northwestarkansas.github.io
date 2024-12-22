@@ -15,10 +15,12 @@ Whether you're interested in organizing your workplace, winning Medicare for All
 
 Our Steering Group (SG) is elected annually by our membership. The SG consists of various roles as listed. **You can find their duties and responsibilities [here](../steering-group/).** <!--Add a steering-group page-->
 
-* **Co-Chairs:** Eric
-* **Secretary:**  
-* **Trasurer:** Chris
-* **Social Media:** Misty 
+* **Co-Chairs:** Aaron & Corgan
+* **Secretary:**  Chris
+* **Trasurer:** Eric
+* **Social Media:** Jamie 
+* **Education:** Andy
+* **Harrassment and Grievance:** Danielle & Curt
 
 Steering Group elections are held once a year during the first part of the year.
 
@@ -26,9 +28,9 @@ Steering Group elections are held once a year during the first part of the year.
 
 Want to get involved in DSA but travel through the state? Another local chapter might work better for you!
 
-* **Central Arkansas DSA** 
-[Website](https://centralarkansasdsa.org/) | [Instagram](https://www.instagram.com/central_ar_dsa/)
-* **Fort Smith DSA** 
-[Facebook](https://www.facebook.com/fortsmithdsa/) | [Twitter](https://x.com/fortsmithdsa)
-* **Northeast Arkansas DSA** 
-[Facebook](https://www.facebook.com/neadsa) | [Twitter](https://x.com/nearkdsa)
+* **Central Arkansas DSA:** 
+ [Website](https://centralarkansasdsa.org/) | [Instagram](https://www.instagram.com/central_ar_dsa/)
+* **Fort Smith DSA:** 
+ [Facebook](https://www.facebook.com/fortsmithdsa/) | [Twitter](https://x.com/fortsmithdsa)
+* **Northeast Arkansas DSA:** 
+ [Facebook](https://www.facebook.com/neadsa) | [Twitter](https://x.com/nearkdsa)
