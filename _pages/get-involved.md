@@ -36,3 +36,6 @@ In Gaza, the Palestinian people have been oppressed for years. A renewed genocid
 
 <h4>Electoral</h4>
 The electoral working group continues to spread awareness about the election process in the United States. While also engaging with members and prospective members on the workings of DSA.
+
+<h4>Infrastructure</h4>
+The Infrastructure Working Group will help to draft official documents for the Northwest Arkansas DSA. This working group will ensure that the local chapter will comply with the national committee bylaws and create a fundamental infrastructure for the chapter to follow.
