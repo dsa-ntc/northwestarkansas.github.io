@@ -10,7 +10,6 @@ Northwest Arkansas DSA’s meetings and events are designed for our members, tho
 <div class="span9">
 	<h3>Northwest Arkansas DSA Events</h3>
 	<iframe src="https://calendar.google.com/calendar/embed?src=nwademsoc%40gmail.com&ctz=America%2FChicago" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
-	<iframe src="" style=" border-width:0 " width="100%" height="600" frameborder="0" scrolling="no"></iframe>
 </div><!--/span-->
 
 <!--Google calendar of events can be used like this for the iframe src: https://calendar.google.com/calendar/u/0/embed?showTitle=0&mode=AGENDA&height=400&wkst=1&bgcolor=%23ffffff&src=peninsuladsa@gmail.com&color=%23711616&ctz=America/Los_Angeles-->
