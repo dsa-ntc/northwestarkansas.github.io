@@ -17,8 +17,8 @@ Our Steering Group (SG) is elected annually by our membership. The SG consists o
 
 * **Co-Chairs:** Aaron & Corgan
 * **Secretary:**  Chris
-* **Trasurer:** Eric
-* **Social Media:** Jamie 
+* **Treasurer:** Eric
+* **Social Media:** Jamie
 * **Education:** Andy
 * **Harrassment and Grievance:** Danielle & Curt
 
