@@ -14,6 +14,8 @@ Northwest Arkansas DSA’s meetings and events are designed for our members, tho
 
 <!--Google calendar of events can be used like this for the iframe src: https://calendar.google.com/calendar/u/0/embed?showTitle=0&mode=AGENDA&height=400&wkst=1&bgcolor=%23ffffff&src=peninsuladsa@gmail.com&color=%23711616&ctz=America/Los_Angeles-->
 
+**\***Steering group meetings are held around the 1st Wednesday of the month. Email us at [nwademsoc@gmail.com](mailto:nwademsoc@gmail.com) if you have any questions!
+
 **Note:** In the interest of protecting our most vulnerable comrades from COVID, many of our events continue to be virtual. In-person events usually take place outdoors with good air flow, and masks are recommended.
 
 <h3>Regular meetings</h3>
