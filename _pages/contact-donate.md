@@ -1,0 +1,14 @@
+---
+layout: contact
+title: "Contact/Donate"
+permalink: /contact-donate/
+---
+<div class="col-md">
+    <link href='https://actionnetwork.org/css/style-embed-v3.css' rel='stylesheet' type='text/css' />
+    <script src='https://actionnetwork.org/widgets/v5/form/contact-nwa-dsa?format=js&source=widget'></script>
+    <div id='can-form-area-contact-nwa-dsa' style='width: 100%'><!-- this div is the target for our HTML insertion --></div>
+</div>
+<div class="col-md">
+    <script src='https://actionnetwork.org/widgets/v5/fundraising/donate-to-nwa-dsa?format=js&source=widget'></script>
+    <div id='can-fundraising-area-donate-to-nwa-dsa' style='width: 100%'><!-- this div is the target for our HTML insertion --></div>
+</div>
