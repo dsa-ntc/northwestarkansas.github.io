@@ -21,7 +21,10 @@ header:
     description: "Support the DSA!"
   - title: "Events Calendar"
     url: "/calendar/"
-    description: "Chapter Events Calendar"
+    description: "Chapter Events Calendar" 
+    title: "Contact/Donate"
+    url: "/contact-donate/"
+    description: "Chapter Contact and Donation"
 
 join:
   - title: "Join"
