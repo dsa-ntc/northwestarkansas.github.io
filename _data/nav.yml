@@ -22,7 +22,7 @@ header:
   - title: "Events Calendar"
     url: "/calendar/"
     description: "Chapter Events Calendar" 
-    title: "Contact/Donate"
+  - title: "Contact/Donate"
     url: "/contact-donate/"
     description: "Chapter Contact and Donation"
 
