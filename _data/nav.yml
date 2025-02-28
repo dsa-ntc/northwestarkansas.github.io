@@ -13,6 +13,13 @@ header:
       url: "/electoral/"
     - title: "Infrastructure Working Group"
       url: "/infrastructure/"
+  - title: "Definitions"
+    description: "Glossary of definitions for terms and positions within the chapter"
+    sub_menu:
+      - title: "Chapter Lingo"
+        url: "/definitions/"
+      - title: "Steering Committee"
+        url: "/steering-committee/"
   - title: "Statements"
     url: "/statements/"
     description: "Link to Northwest Arkasas DSA's Chapter Statements"

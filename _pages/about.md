@@ -13,7 +13,7 @@ Whether you're interested in organizing your workplace, winning Medicare for All
 
 <h3>Chapter Leadership</h3>
 
-Our Steering Group (SG) is elected annually by our membership. The SG consists of various roles as listed. **You can find their duties and responsibilities [here](../steering-group/).** <!--Add a steering-group page-->
+Our Steering Committee (SG) is elected annually by our membership. The SG consists of various roles as listed. **You can find their duties and responsibilities [here](../steering-committee/)
 
 * **Co-Chairs:** Aaron & Corgan
 * **Secretary:**  Chris
@@ -22,7 +22,7 @@ Our Steering Group (SG) is elected annually by our membership. The SG consists o
 * **Education:** Andy
 * **Harrassment and Grievance:** Danielle & Curt
 
-Steering Group elections are held once a year during the first part of the year.
+Steering Committee elections are held once a year during the first part of the year.
 
 <h3>Other Arkansas Chapters</h3>
 
