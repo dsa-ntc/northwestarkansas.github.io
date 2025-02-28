@@ -17,9 +17,9 @@ header:
     description: "A glossary of definitions for terms used within the chapter"
     sub_menu:
       - title: "Chapter Lingo"
-      - url: "/definitions/"
+        url: "/definitions/"
       - title: "Chapter Officers"
-      - url: "/steering-group/"
+        url: "/steering-group/"
   - title: "Statements"
     url: "/statements/"
     description: "Link to Northwest Arkasas DSA's Chapter Statements"

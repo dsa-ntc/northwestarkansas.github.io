@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "General Definitions"
-permalink: /definitions
+permalink: /definitions/
 ---
 
 ## Definitions of Common Terms
