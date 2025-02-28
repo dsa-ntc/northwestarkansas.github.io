@@ -1,13 +1,13 @@
 ---
 layout: page
-title: "Steering Group"
-permalink: /steering-group/
+title: "Steering Committee"
+permalink: /steering-committee/
 ---
 ---
-The Steering Group is made of elected members of the chapter who are in their respective offices for one year terms.
+The Steering Committee is made of elected members of the chapter who are in their respective offices for one year terms.
 <br>
 
-The officers of the Steering Group and their resposibilities and duties are listed as below: 
+The officers of the Steering Committee and their resposibilities and duties are listed as below: 
 
 * **Co-Chairs:** 
   - **Role**: Official spokespersons, set agendas, and ensure overall coordination.
