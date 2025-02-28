@@ -1,10 +1,8 @@
 ---
 layout: page
-title: "General Definitions"
+title: "Definitions of Common Terms"
 permalink: /definitions/
 ---
-
-## Definitions of Common Terms
 
 If you're wondering what some of our common terms mean, this is the page for you!
 
