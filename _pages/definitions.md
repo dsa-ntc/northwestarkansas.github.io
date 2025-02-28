@@ -41,4 +41,4 @@ If you're wondering what some of our common terms mean, this is the page for you
 
 ---
 
-*For info on the steering committee, go to the [steering committee page](/definitions/)*
+*For info on the steering committee, go to the [steering committee page](/steering-committee/)*
