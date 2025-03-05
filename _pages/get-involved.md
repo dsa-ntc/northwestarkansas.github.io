@@ -5,13 +5,13 @@ permalink: /get-involved/
 ---
 ---
 
-[![Want to get involved with Northwest Arkansas DSA? Join us!](assets/images/DSA/dsa-gif-logo.gif)](https://act.dsausa.org/donate/membership/)
+[![Want to get involved with Northwest Arkansas DSA? Join us!](assets/images/DSA/dsa-gif-logo.gif)](https://act.dsausa.org/donate/membership/?source=Northwest%20AR)
 
 <h2>Join DSA!</h2>
 
 The [Democratic Socialists of America](https://www.dsausa.org/) is the largest socialist organization in the United States because we’re a member-driven mass organization. We are a political and activist organization, not a party. We believe that working people should run both the economy and civil society, and we show our commitment to this principle by being an organization of, by, and for the working class.
 
-When you [join DSA](https://www.dsausa.org/join), Northwest Arkansas DSA's Membership co-chairs will reach out to connect you to our local organizing work.
+When you [join DSA](https://act.dsausa.org/donate/membership/?source=Northwest%20AR), Northwest Arkansas DSA's Membership co-chairs will reach out to connect you to our local organizing work.
 
 ---
 
