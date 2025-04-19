@@ -37,7 +37,7 @@ header:
     sub_menu:
       - title: "Contact/Donate"
         url: "/contact-donate/"
-      - title: "Harassement & Grievance Officers"
+      - title: "Harassment & Grievance Officers"
         url: "/hgo-contact/"
 
 join:
