@@ -13,13 +13,15 @@ header:
       url: "/electoral/"
     - title: "Infrastructure Working Group"
       url: "/infrastructure/"
-  - title: "Definitions"
+  - title: "Definitions" # TODO: add url here
     description: "Glossary of definitions for terms and positions within the chapter"
     sub_menu:
       - title: "Chapter Lingo"
         url: "/definitions/"
       - title: "Steering Committee"
         url: "/steering-committee/"
+      - title: "Community Agreements"
+        url: "/community-agreements/"
   - title: "Statements"
     url: "/statements/"
     description: "Link to Northwest Arkasas DSA's Chapter Statements"
@@ -30,8 +32,13 @@ header:
     url: "/calendar/"
     description: "Chapter Events Calendar" 
   - title: "Contact/Donate"
-    url: "/contact-donate/"
+    url: "/contact-donate/" # TODO: change to new index
     description: "Chapter Contact and Donation"
+    sub_menu:
+      - title: "Contact/Donate"
+        url: "/contact-donate/"
+      - title: "Harassment & Grievance Officers"
+        url: "/hgo-contact/"
 
 join:
   - title: "Join"
