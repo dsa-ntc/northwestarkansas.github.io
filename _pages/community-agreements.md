@@ -1,10 +1,8 @@
 ---
 layout: page
-title: "Community Agreements"
+title: "NWA DSA Community Agreements"
 permalink: /community-agreements/
 ---
-
-### NWA DSA Community Agreements
 
 Rather than creating a set of rules that support a good democratic environment only in the present, the NWA chapter of the DSA asks: **“What kinds of rules and norms will prepare us to create the permanent democratic culture of the future?”** Using this question to shape our praxis, we make the following agreements to our community:
 
