@@ -11,3 +11,9 @@ The Electoral working group is looking for people willing to step up in their co
 The objectives of the local chapter are again to do projects in their communities while also establishing an identity. Democrats have shown time and time again that they are incapable of solving our right-wing problems. Building an identity is needed when growing political power. Using that political power to push our people into positions of power to better our communities 
 
 Email or message the chapter (or Miguel, directly) via Signal or Discord to get plugged in or attend a general interest meeting.
+
+---
+
+#### Articles
+
+- [Engaging City Council - Miguel](/engaging-city-council.md/)
