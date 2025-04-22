@@ -16,4 +16,4 @@ Email or message the chapter (or Miguel, directly) via Signal or Discord to get 
 
 #### Articles
 
-- [Engaging City Council - Miguel](/engaging-city-council.md/)
+- [Engaging City Council - Miguel](/engaging-city-council/)

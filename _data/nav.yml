@@ -12,10 +12,11 @@ header:
     - title: "Electoral Working Group"
       url: "/electoral/"
     - title: "Labor Working Group"
-      url: "//"
+      url: "/labor-wg/"
     - title: "Public Transit Working Group"
-      url: "//"
-  - title: "Definitions" # TODO: add url here
+      url: "/public-transit-wg/"
+  - title: "Definitions"
+    url: "/definitions/"
     description: "Glossary of definitions for terms and positions within the chapter"
     sub_menu:
       - title: "Chapter Lingo"
