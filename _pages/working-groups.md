@@ -17,9 +17,15 @@ The electoral working group is a group based on community that wants to increase
 
 ---
 
-<h3>Infrastructure</h3>
+<h3>Public Transit</h3>
 
-The infrastructure working group is tasked with being the workhorse behind NWA DSA's documents and other governing materials and actions that help to promote progress in our chapter and help the community through the chapter's actions.
+The Public Transit working group holds discussions and coordination around public transit in NWA.
+
+---
+
+<h3>Labor</h3>
+
+The Labor working group focuses on labor
 
 ---
 

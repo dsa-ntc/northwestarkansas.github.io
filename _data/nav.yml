@@ -11,9 +11,12 @@ header:
       url: "/gaza-solidarity/"
     - title: "Electoral Working Group"
       url: "/electoral/"
-    - title: "Infrastructure Working Group"
-      url: "/infrastructure/"
-  - title: "Definitions" # TODO: add url here
+    - title: "Labor Working Group"
+      url: "/labor-wg/"
+    - title: "Public Transit Working Group"
+      url: "/public-transit-wg/"
+  - title: "Definitions"
+    url: "/definitions/"
     description: "Glossary of definitions for terms and positions within the chapter"
     sub_menu:
       - title: "Chapter Lingo"
@@ -37,8 +40,9 @@ header:
     sub_menu:
       - title: "Contact/Donate"
         url: "/contact-donate/"
-      - title: "Harassment & Grievance Officers"
+      - title: "Our HGOs"
         url: "/hgo-contact/"
+        description: "Harrasment & Grievance Officers"
 
 join:
   - title: "Join"
