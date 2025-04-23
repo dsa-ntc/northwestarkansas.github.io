@@ -1,7 +1,8 @@
 ---
 layout: page
-title: "Labor Working Group"
+title: "Labor"
 permalink: /labor-wg/
 ---
+---
 
-
+#### *In the works*

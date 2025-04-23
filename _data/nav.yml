@@ -40,7 +40,7 @@ header:
     sub_menu:
       - title: "Contact/Donate"
         url: "/contact-donate/"
-      - title: "HGOs"
+      - title: "Our HGOs"
         url: "/hgo-contact/"
         description: "Harrasment & Grievance Officers"
 
