@@ -17,3 +17,4 @@ Email or message the chapter (or Miguel, directly) via Signal or Discord to get 
 #### Articles
 
 - [Engaging City Council - Miguel](/engaging-city-council/)
+- [Why We Should Democratize Everything - Miguel](/democratize-everything/)
