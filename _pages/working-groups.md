@@ -25,7 +25,11 @@ The Public Transit working group holds discussions and coordination around publi
 
 <h3>Labor</h3>
 
-The Labor working group focuses on labor
+The Labor working group focuses on labor and labor organizing.
+
+<h3>Mutual Aid</h3>
+
+The Mutual Aid working group focuses on mutual aid.
 
 ---
 
