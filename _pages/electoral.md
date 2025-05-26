@@ -18,3 +18,5 @@ Email or message the chapter (or Miguel, directly) via Signal or Discord to get 
 
 - [Engaging City Council - Miguel](/engaging-city-council/)
 - [Why We Should Democratize Everything - Miguel](/democratize-everything/)
+- [The Cooperative Movement and the Housing Crisis - Miguel](/housing-crisis-and-the-cooperative-movement/)
+- [Housing Without Exploitation: The Socialist Alternative to Capitalist Property Relations - Miguel](/housing-without-exploitation/)

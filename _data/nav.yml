@@ -15,6 +15,8 @@ header:
       url: "/labor-wg/"
     - title: "Public Transit Working Group"
       url: "/public-transit-wg/"
+    - title: "Mutual Aid Working Group"
+      url: "/mutual-aid-wg/"
   - title: "Definitions"
     url: "/definitions/"
     description: "Glossary of definitions for terms and positions within the chapter"

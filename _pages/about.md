@@ -19,7 +19,7 @@ Our Steering Committee (SG) is elected annually by our membership. The SG consis
 * **Secretary:**  Chris
 * **Treasurer:** Eric
 * **Social Media:** Jamie
-* **Education:** Andy
+* **Education:**
 * **Harrassment and Grievance:** Danielle & Curt
 
 Steering Committee elections are held once a year during the first part of the year.
