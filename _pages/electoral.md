@@ -20,4 +20,5 @@ Email or message the chapter (or Miguel, directly) via Signal or Discord to get 
 - [Why We Should Democratize Everything - Miguel](/democratize-everything/)
 - [The Cooperative Movement and the Housing Crisis - Miguel](/housing-crisis-and-the-cooperative-movement/)
 - [Housing Without Exploitation: The Socialist Alternative to Capitalist Property Relations - Miguel](/housing-without-exploitation/)
-- [How the Two-Party System Silences Real Change](/how-the-two-party-system-silences-real-change/)
+- [How the Two-Party System Silences Real Change - Miguel](/how-the-two-party-system-silences-real-change/)
+- [Diamond-Water Paradox: Defending the Labor Theory of Value - Miguel](/diamond-water-paradox/)
