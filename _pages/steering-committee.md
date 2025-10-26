@@ -7,7 +7,7 @@ permalink: /steering-committee/
 The Steering Committee is made of elected members of the chapter who are in their respective offices for one year terms.
 <br>
 
-The officers of the Steering Committee and their resposibilities and duties are listed as below: 
+The officers of the Steering Committee and their responsibilities and duties are listed as below: 
 
 * **Co-Chairs:** 
   - **Role**: Official spokespersons, set agendas, and ensure overall coordination.
