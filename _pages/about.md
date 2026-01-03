@@ -15,12 +15,11 @@ Whether you're interested in organizing your workplace, winning Medicare for All
 
 Our Steering Committee (SG) is elected annually by our membership. The SG consists of various roles as listed. **You can find their duties and responsibilities [here](../steering-committee/)**
 
-* **Co-Chairs:** Aaron & Corgan
-* **Secretary:**  Chris
-* **Treasurer:** Eric
-* **Social Media:** Jamie
-* **Education:**
-* **Harassment and Grievance:** Danielle & Curt
+* **Co-Chairs:** Kandice & Corgan
+* **Secretary:**  Jamie
+* **Treasurer:** Jason
+* **Social Media:** Maxwell
+* **Education:** Zoe
 
 Steering Committee elections are held once a year during the first part of the year.
 
