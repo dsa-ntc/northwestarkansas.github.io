@@ -17,7 +17,7 @@ When you [join DSA](https://act.dsausa.org/donate/membership/?source=Northwest%2
 
 <h3>Events</h3>
 
-Please see our [events calendar](../events-calendar/) for upcoming events and other informative meetings that are happening in our chapter!
+Please see our [events calendar](../calendar/) for upcoming events and other informative meetings that are happening in our chapter!
 
 ---
 
